@@ -66,21 +66,21 @@ const Features = () => {
               <div className="feature-text-container">
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
-                    iphone 15 pro is {' '}
+                    IPhone 15 pro {' '}
                     <span className="text-white">
-                      the iphone is something that you shouldn't buy because it is very maarte
+                    boasts an advanced camera system, featuring ultra-wide lenses that deliver stunningly detailed and expansive shots, perfect for capturing breathtaking landscapes or group photos. 
                     </span>,
-                    kaya dont buy the iphone they just keep pushing new features na di nmn need
+                    Its innovative design pushes the boundaries of mobile photography, ensuring unparalleled quality and versatility in every frame.
                   </p>
                 </div>
 
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
-                    iphone 15 pro is {' '}
+                    IPhone 15 pro {' '}
                     <span className="text-white">
-                      its also has its own operating system kaya pangit 
+                    features a sleek, modern design that combines elegance with functionality
                     </span>,
-                    kaya dont buy the iphone they just keep pushing new features na di nmn need
+                    Its refined edges, lightweight build, and premium materials create a sophisticated look, while its ergonomic form ensures a comfortable grip and effortless handling.
                   </p>
                 </div>
                 

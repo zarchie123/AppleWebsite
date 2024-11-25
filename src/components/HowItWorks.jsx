@@ -36,11 +36,11 @@ const HowItWorks = () => {
             <div className="flex felx-col items-center">
                 <h2 className="hiw-title">
                     A17 Pro Chip
-                    <br /> A monsoter for gaming
+                    <br /> A monster for gaming
 
                 </h2>
                 <p className="hiw-subtitle">
-                    The Biggest Phone of something pero ayun nga wag niyo bilhin kasi ang pangit
+                    The Phone that you want to buy, that would be good for everything that you need in life
                 </p>
             </div>
 
@@ -66,28 +66,20 @@ const HowItWorks = () => {
           <div className="hiw-text-container">
                 <div className="flex flex-1 justify-center flex-col">
                   <p className="hiw-text g_fadeIn">
-                    iphone 15 pro is {' '}
+                    IPhone 15 pro is {' '}
                     <span className="text-white">
-                      the iphone is something that you shouldn't buy because it is very maarte
+                      The best phone there is, its new model 
                     </span>,
-                    kaya dont buy the iphone they just keep pushing new features na di nmn need
+                    that would keep up with the trends
                   </p>
                 
 
-                <div className="flex flex-1 justify-center flex-col">
-                  <p className="hiw-text g_fadeIn">
-                    iphone 15 pro is {' '}
-                    <span className="text-white">
-                      its also has its own operating system kaya pangit 
-                    </span>,
-                    kaya dont buy the iphone they just keep pushing new features na di nmn need
-                  </p>
-                  </div>
+              
                 </div>
 
                 <div className="flex-1 flex justify-center flex-col g_fadeIn">
                   <p className="hiw-text">New</p>
-                  <p className="hiw-bigtext">Wew</p>
+                  <p className="hiw-bigtext">Buy</p>
                   <p className="hiw-text">Now</p>
                 </div>
                 
